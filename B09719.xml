@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Perfect trust Psal. 37.5 cast both thy self and thine affairs on God with perfect trust : and thous salt see with patience the effect both sure and just.  The question put by a Christian friend to a minister, was, How trust in God may be said to be perfect : The ministers answer, sent by letter, was to this effect.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09719</idno><idno type="EEBO-CITATION">64551548</idno>
+  <idno type="VID">184692</idno>
+  <idno type="EEBO-PROQUEST">2240886075</idno>
+  
+            <idno type="STC">Wing P1530A</idno>
+            <idno type="STC">ESTC R224319</idno>
+            <idno type="OCLC">64551548</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09719)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184692)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Perfect trust Psal. 37.5 cast both thy self and thine affairs on God with perfect trust : and thous salt see with patience the effect both sure and just.  The question put by a Christian friend to a minister, was, How trust in God may be said to be perfect : The ministers answer, sent by letter, was to this effect.</title>
+               </titleStmt>
+               <extent>1 sheeet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian life --  England --  Early works to 1800.</term>
+               <term type="topical_term">Devotional literature --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:184692:1"/>
+            <head>PERFECT TRUST</head>
+            <epigraph>
+               <bibl>PSAL. 37. 5.</bibl>
+               <q>
+                  <lg>
+                     <l>Cast both thy self and thine affairs</l>
+                     <l>on God with perfect Trust:</l>
+                     <l>And thou shalt see with patience</l>
+                     <l>th'effect both sure and just.</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <argument>
+               <p>THe Question put by a Christian Friend to a Minister, was, <hi>How Trust in God may be said to be perfect?</hi> The Ministers Answer, sent by Letter, was to this effect.</p>
+            </argument>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am well assured, that I can add nothing by way of Answer, concerning the Question proposed, to what you are already expe<g ref="char:EOLhyphen"/>rimentally acquainted with; however, to satisfie your desire, and in regard God can make old things new unto us, by giving us a new taste and favour of them, I shall say something.</p>
+            <p>I must premise, that I remember not that Epithite of <hi>Trust</hi> any where expresly to occurr in Scripture, onely in <hi>Psal.</hi> 37. 5. our <hi>English</hi> Meeter useth it. But however, the same thing we meet with in Scripture, though in other terms: For <hi>perfect</hi> Trust can import onely two things; 1. The <hi>Truth</hi> of it for kind, as a perfect man is a sincere and upright man; 2. The <hi>Strength</hi> of it for degree, and so it notes not absolute perfection, but an eminent and singular measure of that grace, above what many, or possibly most attain unto; and this the Scripture expresseth by <hi>Trusting in the Lord with all the heart, Prov.</hi> 3. 5. that is, truly and strongly. Such an eminent measure of this Grace, no doubt, had <hi>Hezekiah,</hi> in respect of which, as well as of other Graces, 'tis said of him, that <hi>after him was none like him among all the Kings of Judah, nor any that went before him.</hi> 2 <hi>Kin.</hi> 18. 5. But when all is done, the most perfect Trust attainable by us here, is mingled with much Distrust; which yet doth not deprive us of the benefit thereof, otherwise our condition were sad: <hi>Though we believe not, God is faithfull,</hi> 2 <hi>Tim.</hi> 2, 13. that is, though our Faith be weak, though it often fail, and be at a loss, as to the actings of it; yet being true, God it by promise obliged, <hi>and cannot deny himself:</hi> And so though we trust not, not so firmly, not so constantly as we should; yet where there is any measure of that grace in truth, God is faithfull: and yet it must be granted, that the greater measure of Faith and trust we can attain, the more we may expect from God. <hi>According to our faith</hi> (and so according to our trust) <hi>so be it unto you,</hi> is his language to us; we impair and lessen our Mercies by the weakness of our Faith and Trust, as <hi>Barak</hi> did, <hi>Judg.</hi> 4. 9. but an eminent Trust and strong Confidence in God, never fails of some eminent appearance of God for us, according to the proportion and measure of our reliance on him.</p>
+            <p>Now our Trust may be known to be right,</p>
+            <p n="1">1. From its <hi>Foundation,</hi> which is some word or promise of God, <hi>Psal.</hi> 119. 42. and that rightly understood and applied, else it is a presumptuous confidence without warrant.</p>
+            <p n="2">2. From the <hi>Descriptions</hi> of the nature of it, which is excellently represented unto us in variety of significant expressions: 'Tis described by <hi>re<g ref="char:EOLhyphen"/>lying on the Lord,</hi> 2 <hi>Chron.</hi> 13. 18. by <hi>resting on him,</hi> 2 <hi>Chron.</hi> 14. 11. by <hi>staying our selves on him, Isa.</hi> 50. 11. by <hi>leaning on him, Cant.</hi> 8. 5. by <hi>casting our selves, our cares, our burdens on him, Psal.</hi> 55. 22. 1 <hi>Pet.</hi> 5. 7. by <hi>having our eyes on him,</hi> 2 <hi>Chron.</hi> 20. 12. and all <hi>our expectations from him, Psal.</hi> 62. 5.</p>
+            <p n="3">3. It may be known by the inseparable <hi>Concomitants</hi> of it, which are, 1. A disclaiming and <hi>renouncing of all other props</hi> and supports, <hi>Prov.</hi> 3. 5. <hi>Hos.</hi> 14. 3. <hi>Psal.</hi> 20. 7. <hi>Psal.</hi> 2. 5, 6. 2. <hi>Frequent recourse</hi> to him in every exigency. A man will be often running to a faithfull Friend in whom he trusteth, in reference to any business of importance; he shall be often consulted with, his assistance often implored, upon occasion of every emergent diffi<g ref="char:EOLhyphen"/>culty. So if God be our <hi>strong Tower,</hi> in every danger we will be <hi>running into it for safety, Prov.</hi> 18. 10. If our trust be in him, we will be addres<g ref="char:EOLhyphen"/>sing our selves to him, be <hi>acknowledging him in all our ways, Prov.</hi> 3. 5. <hi>Committing our works and affairs to him, Psal.</hi> 37. and <hi>pouring out our hearts before him at all times, Psal.</hi> 62. 8. 3. Trust in God is accompanied with a <hi>Care to please him:</hi> No prudent man will provoke him, on whom his trust and dependance is for any thing which he valueth; nor can he have any good ground of confidence in his help and assistance, whom by his daily af<g ref="char:EOLhyphen"/>fronts and miscarriages he makes his Enemy. <hi>He that hath friends, must carry himself friendly, Prov.</hi> 18. 24. and so must he that will have them for the future, or else in reason he cannot expect to have them long. Hence <hi>trust in the Lord</hi> and <hi>doing good</hi> are linked together, <hi>Psal.</hi> 37. 3. This will greatly strengthen our trust, <hi>Prov.</hi> 14. 26. and without this all our confidence is vain, <hi>Jer.</hi> 7. 4, 5, <hi>&amp;c.</hi> 4. True trust in God is attended with the diligent <hi>use of such lawfull means</hi> as Gods providence offers. Thus <hi>Paul</hi> so trusts in Gods promise for saving himself and the rest in the ship, as he no way opposeth the use of such means, by which the Providence of God was to be served, <hi>Act.</hi> 27. Neglect of Means makes our Confidence no other then a presumptuous tempting of God. 5. True Trust in God is accompanied with a sense and bewailing of, and <hi>a mourning under our Distrust,</hi> together with a striving against it, and a stirring up our selves to hope in God. So <hi>David,</hi> Psal. 42. 5. <hi>Why art thou cast down, why art thou disquieted, O my soul? still hope in God, &amp;c.</hi> And the man in the Gospel, <hi>Lord, I believe, help thou my unbelief.</hi> So, Lord, I trust in thee, help thou my distrust. 6. 'Tis accompanied with a <hi>sense of our unworthiness</hi> of whatever favour or relief we are trusting in God for. So <hi>Jacob,</hi> Gen. 32. manifesting his trust in God by his recourse to him in his distress, acknowledgeth himself <hi>unworthy of all the mercy and truth which God had formerly shewed him,</hi> and consequently much more of that protection against <hi>Esau,</hi> which he further begged of him.</p>
+            <p n="4">4. This holy Trust in God may be discerned by <hi>the Effects of it,</hi> which are such as these: 1. <hi>It quiets the heart,</hi> composeth the spirit, and frees it from distracting fears and cares, at least according to the measure of it, and at such times when the actings of it are not by temptations or other<g ref="char:EOLhyphen"/>wise obstructed. <hi>Isa.</hi> 26. 3. <hi>Thou wilt keep him in perfect peace, &amp;c.</hi> 2. It <hi>holds up the heart,</hi> and keeps from <hi>sinking,</hi> yea, sometimes <hi>fills with joy</hi> and holy triumph, even when all outward means fail, <hi>Hab.</hi> 3. 16, 17, 18. <hi>Though the fig-tree shall not blossome, &amp;c. yet I will rejoyce in the Lord, &amp;c.</hi> 3. It enables and <hi>strengthens the soul to wait Gods season</hi> for Deliverance, yea, though he should seem long to hold us in expectation. <hi>Isa.</hi> 28. 16. <hi>He that believeth,</hi> and so he that trusteth in God with all his heart, <hi>will not make haste.</hi> 4. It effectually <hi>preserveth from making use of any unlawfull means.</hi> He that trusteth in the Lord needs not do it, for he knoweth whom he hath trusted, even one who <hi>knows how to deliver,</hi> 2 <hi>Pet.</hi> 2. 9. and <hi>never fails those who trust in him, Psal.</hi> 9. 10. To reach forth the hand to take hold of any unwarrantable relief, were to renounce his trust in God; wherefore in this sence also, he that believeth or trusteth, will not make haste, as that place is likewise understood. 5. Sound Trust in God will make us <hi>willing,</hi> and in some measure enable us <hi>to referr all to his good pleasure,</hi> to give up all to his disposal, to put all our <hi>all</hi> into his hands. And thus much is implied in the phrase of <hi>committing our way to him, Psal.</hi> 37. 5. When we entirely trust a wise and faithfull man in any weighty business, we referr all to his Wis<g ref="char:EOLhyphen"/>dom, Care, and Integrity. They who can thus trust God, do as it were engage him in point of Honour not to fail them: And indeed, it is impos<g ref="char:EOLhyphen"/>sible he should fail them, not onely on this account, but likewise upon another, to wit, that he himself hath <hi>caused them to trust in him,</hi> as the phrase of the Psalmist is, <hi>Psal.</hi> 119. 49. 1. <hi>By Promises</hi> to those who shall trust in him; 2. <hi>By Commands</hi> and peremptory charges laid on them to do it; 3. By manifold <hi>Experiences</hi> of his never failing their expectations formerly; and 4<seg rend="sup">ly</seg>, By most sweet and <hi>efficacious Encouragings</hi> and drawings of his own Spirit, he hath induced them, and prevailed with them to trust in him: and after all this can he fail them, or betray them? The Philosophers good nature would not deliver the poor Bird to the Hawk, from which it had taken shelter under his Cloak, and yet he never allured the Bird into that refuge: God hath allured us to take Sanctuary under his Wing, and therefore Heaven and Earth can sooner pass away, then he fail us. How well also he takes it at our hands that we will trust in him, and the security he hath thereupon given us, that one excellent place, <hi>Psal.</hi> 91. 14, 15, 16. abundantly manifesteth.</p>
+            <epigraph>
+               <bibl>HAB. 2. 4 ROM. 1. 17, <hi>&amp;c.</hi>
+               </bibl>
+               <q>
+                  <hi> The Just shall live by his Faith.</hi>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for S. G. 1665.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
